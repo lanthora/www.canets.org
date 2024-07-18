@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Candy',
-  tagline: '一个高可用,低时延,反审查的组网工具',
+  tagline: '一个高可用，低时延，反审查的组网工具',
   favicon: 'img/logo.jpg',
 
   // Set the production url of your site here
