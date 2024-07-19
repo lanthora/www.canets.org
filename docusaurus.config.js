@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Candy',
   tagline: '一个高可用，低时延，反审查的组网工具',
-  favicon: 'img/logo.jpg',
+  favicon: 'https://canets.org/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://www.canets.org',
@@ -67,7 +67,7 @@ const config = {
         title: 'Candy',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.jpg',
+          src: 'img/logo.png',
         },
         items: [
           {
